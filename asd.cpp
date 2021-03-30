@@ -3,7 +3,8 @@ using namespace std;
 
 
 int main()
-{
+{adas
+
 
     int t=0;
     string s;
